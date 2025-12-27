@@ -1,0 +1,6 @@
+[submodule "backend-suiten-paywiz"]
+	path = backend-suiten-paywiz
+	url = https://github.com/davadwis/backend-suiten-paywiz.git
+[submodule "frontend-suiten-paywiz-"]
+	path = frontend-suiten-paywiz-
+	url = https://github.com/davadwis/frontend-suiten-paywiz-.git
